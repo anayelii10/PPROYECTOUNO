@@ -1,0 +1,26 @@
+{
+  "name": "MyBootsraApp",
+  "authors": [
+    "anayelii10 <anayeli.cervantes.negrellos@alumno.uttehuacan.edu.mx>"
+  ],
+  "description": "How to use bootstrap framework",
+  "main": "indiex.html",
+  "keywords": [
+    "12345678"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "fontawesome": "^5.0.13",
+    "bootstrap": "^4.1.1",
+    "jquery": "^3.3.1"
+  }
+}
